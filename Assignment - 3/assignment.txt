@@ -1,0 +1,14 @@
+3) Solve the Python Statements Task
+	1- Open code Folder.
+	2- Open 02-Python Statements folder.
+	3- Solve 05-Statements Assessment Test.ipynb file.
+
+
+4) Solve the Functions Task
+	1- Open code Folder.
+	2- Open 03-Functions folder.
+	3- Solve 02-Function Practice Exercises.ipynb file.
+	4- Solve 06-Functions and Methods Homework.ipynb file.
+
+5) Make a package called 'my_packages' that contains 2 packages first one called Transformers and second one called Operations in Transformers package make a module called StringTransformer that has 2 functions one to reverse a string and second one to capitalize a string, and in the Operations package make one module called Math that has 1 function get_average to get average of list values, then make a notebook to use these functions.
+
